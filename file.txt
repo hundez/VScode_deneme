@@ -2,3 +2,6 @@ file calismasi
 
 
 edit calismasi
+
+
+dev commit te edit calismasi
